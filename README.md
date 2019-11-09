@@ -1,0 +1,2 @@
+# polkacli
+Polkadot CLI
